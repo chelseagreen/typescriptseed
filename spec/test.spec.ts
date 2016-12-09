@@ -1,7 +1,7 @@
-import {testSetup} from "../src/test";
+import {TestSetup} from "../src/test";
 
 describe('test', () => {
     it('meow should be true', () => {
-        expect(testSetup.meow).toBe(true);
+        expect(TestSetup.meow).toBe(true);
     });
 });

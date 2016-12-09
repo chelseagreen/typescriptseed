@@ -1,3 +1,3 @@
-export class testSetup {
+export class TestSetup {
     static meow = true;
 }
